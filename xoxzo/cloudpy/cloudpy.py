@@ -1,7 +1,7 @@
-# xoxzo api libirary
+# xoxzo api library
 
 '''
-This is the API library for Xoxzo's telephony service.
+This is the API library for the Xoxzo Cloud Telephony Platform.
 http://docs.xoxzo.com/en/
 
 see http://docs.python-requests.org/en/master/ for requests library.
